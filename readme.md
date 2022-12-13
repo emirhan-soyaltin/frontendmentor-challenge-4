@@ -1,0 +1,1 @@
+tested my basic html and css skills in this frontend mentor cchallenge
